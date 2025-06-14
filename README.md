@@ -60,3 +60,52 @@ Para garantir uma experiência de uso eficiente e sem interrupções, será ofer
 - **Central de Ajuda Online:** Base de conhecimento com artigos, tutoriais e perguntas frequentes.
 - **Atendimento via E-mail:** Canal dedicado para dúvidas técnicas, sugestões e relatos de problemas.
 - **Documentação do Usuário:** Manual completo em formato digital, segmentado por perfis de acesso (paciente e fisioterapeuta), com instruções claras de uso.
+
+# EAP (Estrutura Analítica do Projeto)
+
+## Planejamento
+
+### Levantamento de Requisitos
+- **Reuniões com stakeholders**
+- **Documentação dos requisitos**
+
+### Modelagem Inicial
+- **Criação de wireframes**
+- **Aprovação de protótipos**
+
+## Desenvolvimento
+
+### Backend
+- **Cadastro e login de usuários**
+- **Agendamento de atendimentos**
+- **Prontuário eletrônico**
+
+### Frontend
+- **Telas responsivas**
+- **Integração com backend**
+
+## Testes
+
+### Testes de Funcionalidade
+- **Teste por módulo**
+
+### Testes de Usabilidade
+- **Avaliação com fisioterapeutas**
+
+## Entrega
+
+### Empacotamento do Sistema
+- **Geração do pacote final**
+
+### Instalação e Configuração
+- **Deploy no servidor da Uniceplac**
+
+## Suporte e Treinamento
+
+### Treinamento de Usuários
+- **Criação de manuais**
+- **Sessões de capacitação**
+
+### Suporte Técnico Inicial
+- **Atendimento remoto e por e-mail**
+
