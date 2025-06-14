@@ -196,3 +196,28 @@ A funcionalidade da **ficha de avaliação** envolve requisitos legais e questõ
 - Os dados do paciente estejam devidamente protegidos.
 - O sistema respeite as normas vigentes de sigilo médico.
 - A arquitetura atenda aos padrões de conformidade exigidos para soluções digitais de saúde.
+
+## 13. Estimativa da Execução das Tarefas
+
+A seguir, apresentamos a estimativa de execução das tarefas do projeto **Plataforma de Gestão de Atendimentos de Fisioterapia – Uniceplac**, conforme os critérios de avaliação por dados históricos, medida do trabalho e complexidade.
+
+| Tarefa / Pacote de Trabalho           | Dados Históricos                              | Medida do Trabalho                  | Complexidade | Estimativa de Esforço (dias) |
+|--------------------------------------|------------------------------------------------|------------------------------------|--------------|-------------------------------|
+| Levantamento de Requisitos           | Projetos similares usaram entrevistas          | 5 reuniões com stakeholders        | Média        | 4                             |
+| Modelagem Inicial (Wireframes + Aprovação) | Baseado em protótipos anteriores              | 6 telas principais                 | Baixa        | 3                             |
+| Definição de Tecnologias             | Reutilização de stack comum (Bootstrap, PHP)   | 3 tecnologias principais           | Baixa        | 2                             |
+| Cadastro/Login de Usuários           | Módulo reaproveitado de outro sistema          | ~400 linhas de código             | Média        | 5                             |
+| Agendamento de Atendimentos          | Projeto semelhante em clínica escolar          | 3 interfaces + 6 regras de negócio | Alta         | 8                             |
+| Prontuário Eletrônico                | Nova funcionalidade adaptada de pesquisa       | 5 formulários + CRUD complexo      | Alta         | 10                            |
+| Telas Responsivas                    | Uso de Bootstrap 5.3                           | 8 telas principais                 | Média        | 5                             |
+| Testes de Funcionalidade             | Utilização de plano de testes base             | 10 casos de teste                 | Média        | 4                             |
+| Testes de Usabilidade                | Entrevistas com 2 fisioterapeutas              | 2 sessões de testes                | Baixa        | 2                             |
+| Geração do Pacote Final              | Experiência prévia em empacotamento web        | 1 build + testes                   | Baixa        | 1                             |
+| Deploy no servidor Uniceplac         | Baseado em projeto anterior do campus          | 1 ambiente                         | Média        | 2                             |
+| Treinamento e Manuais                | Manual baseado em sistema anterior             | 1 manual + 2 sessões               | Baixa        | 3                             |
+| Suporte Técnico Inicial              | Atendimento remoto                             | Até 10 chamados                    | Média        | 5                             |
+
+### Observações
+
+As estimativas foram construídas com base na experiência em projetos similares, considerando a complexidade, o volume de trabalho e os recursos disponíveis.  
+A margem de erro pode variar conforme fatores não previstos durante a fase de planejamento.
