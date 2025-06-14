@@ -279,3 +279,51 @@ Os requisitos de recursos abrangem os elementos necessários para cada fase do p
 - Documentação técnica e manuais
 - Canal de suporte por e-mail
 
+
+
+# Equipe do Trabalho
+
+## Lista de Atividades do Projeto
+
+Com base na Estrutura Analítica do Projeto (EAP), foram identificadas as seguintes atividades:
+
+### Planejamento
+- Levantamento de Requisitos
+- Definição do Escopo
+- Elaboração do Cronograma
+
+### Análise e Projeto
+- Modelagem de Dados (MER e DER)
+- Definição da Arquitetura do Sistema
+- Protótipos de Telas (Wireframes)
+
+### Implementação
+- Desenvolvimento do Front-end (Bootstrap 5.3, HTML, CSS, JavaScript)
+- Desenvolvimento do Back-end (PHP, Banco de Dados MySQL)
+- Integração das Funcionalidades
+
+### Testes e Validação
+- Testes de Unidade
+- Testes de Integração
+- Testes com Usuários
+
+### Entrega e Documentação
+- Documentação Técnica
+- Manual do Usuário
+- Apresentação Final
+
+## Implicações da Atribuição de Tarefas
+
+### Papéis e Responsabilidades
+
+| Integrante                 | Papéis Principais                                            | Atividades Envolvidas                                    | Forma de Trabalho                 |
+|---------------------------|--------------------------------------------------------------|----------------------------------------------------------|-----------------------------------|
+| **Kennedy Marques**       | Gerente de Projeto, Programador Full-Stack, Product Owner, modelagem de dados   | Planejamento, Front-end, Back-end, Requisitos, MER, MySql, Documentação | Liderança e trabalho colaborativo |
+| **Laysa Bittencourt**     | Designer de Interface, Programadora Full-Stack, Testadora    | Protótipos, Front-end, Testes, Back-end                  | Design e desenvolvimento integrado|
+| **Eduardo**               | Programador Full-Stack, Analista de Requisitos               | Back-end, Front-end, Análise de dados e processos        | Apoio técnico e levantamento      |
+
+---
+
+## Considerações Finais
+
+A equipe foi definida com base nas competências técnicas e na experiência de cada membro, buscando atender às exigências do projeto com eficiência. As atribuições respeitam a carga horária, a disponibilidade e o foco de atuação de cada integrante, promovendo sinergia entre as etapas de desenvolvimento.
