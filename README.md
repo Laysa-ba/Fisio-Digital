@@ -207,7 +207,7 @@ A funcionalidade da **ficha de avaliação** envolve requisitos legais e questõ
 
 # Estimativa da Execução das Tarefas
 
-A seguir, apresentamos a estimativa de execução das tarefas do projeto **Plataforma de Gestão de Atendimentos de Fisioterapia – Uniceplac**, conforme os critérios de avaliação por dados históricos, medida do trabalho e complexidade.
+A seguir, apresentamos a estimativa de execução das tarefas do projeto **Fisio Digital**, conforme os critérios de avaliação por dados históricos, medida do trabalho e complexidade.
 
 | Tarefa / Pacote de Trabalho           | Dados Históricos                              | Medida do Trabalho                  | Complexidade | Estimativa de Esforço (dias) |
 |--------------------------------------|------------------------------------------------|------------------------------------|--------------|-------------------------------|
@@ -327,3 +327,14 @@ Com base na Estrutura Analítica do Projeto (EAP), foram identificadas as seguin
 ## Considerações Finais
 
 A equipe foi definida com base nas competências técnicas e na experiência de cada membro, buscando atender às exigências do projeto com eficiência. As atribuições respeitam a carga horária, a disponibilidade e o foco de atuação de cada integrante, promovendo sinergia entre as etapas de desenvolvimento.
+
+
+
+# Estimativa de inicio e término das tarefas
+As seguintes datas intermediárias e finais foram definidas para o projeto:
+
+- **Início do Projeto:** 13/05/2025  
+- **Conclusão do Levantamento de Requisitos:** até 18/05/2025  
+- **Conclusão do Desenvolvimento:** até 03/06/2025  
+- **Finalização dos Testes:** até 10/06/2025  
+- **Apresentação Final:** 17/06/2025
