@@ -62,6 +62,102 @@ Para garantir uma experiência de uso eficiente e sem interrupções, será ofer
 - **Atendimento via E-mail:** Canal dedicado para dúvidas técnicas, sugestões e relatos de problemas.
 - **Documentação do Usuário:** Manual completo em formato digital, segmentado por perfis de acesso (paciente e fisioterapeuta), com instruções claras de uso.
 
+
+
+# Entrega e Distribuição da Plataforma
+
+## Itens Entregues
+
+A entrega da plataforma será composta por diversos itens que garantem sua execução funcional e uso eficaz:
+
+- **Programas Executáveis:**  
+  Versão final do sistema desenvolvida em PHP (backend), com HTML5, CSS3 e JavaScript (frontend), e banco de dados MySQL.
+
+- **Scripts de Instalação:**  
+  Scripts para deploy automatizado em ambiente de produção (Linux + Apache/Nginx), configuração de banco de dados e permissões de acesso.
+
+- **Documentação do Usuário:**  
+  - Manual do Paciente  
+  - Manual do Fisioterapeuta  
+  - Manual Técnico do Administrador
+
+## Empacotamento do Software
+
+O produto final será empacotado com os seguintes componentes:
+
+- **Repositório de Código-Fonte:**  
+  Entregue via GitHub (privado), com estrutura organizada por módulos e tags de versão.
+
+- **Build Final em ZIP:**  
+  Pacote contendo:  
+  - Código-fonte da aplicação  
+  - Scripts de instalação  
+  - Arquivos de configuração padrão  
+  - Pastas separadas para cada tipo de documentação (PDF, Markdown)
+
+- **Vídeos Explicativos:**  
+  Dois vídeos curtos (.mp4) demonstrando o uso dos principais módulos (agendamento e prontuário).
+
+## 9. Distribuição do Software
+
+A distribuição será feita por meio dos seguintes canais:
+
+- **Entrega Local:**  
+  Upload para servidor do Centro de Práticas da Uniceplac (on-premise) ou hospedagem em Nuvem (AWS/Azure).
+
+- **Distribuição via Internet (Git):**  
+  Caso a hospedagem fique sob responsabilidade do cliente, será disponibilizado o repositório com instruções detalhadas.
+
+- **Controle de Acesso e Licenciamento:**  
+  - Sistema protegido por autenticação com senhas criptografadas  
+  - Controle de permissões por perfil de usuário  
+  - Licenciamento interno limitado ao Centro de Práticas da Uniceplac, sem redistribuição
+
+## Instalação do Software
+
+### Pré-requisitos Técnicos
+
+- Servidor Linux com PHP 8+, MySQL 5.7+, Apache/Nginx  
+- Acesso SSH e FTP
+
+### Procedimentos
+
+- Upload dos arquivos empacotados  
+- Execução do script de instalação  
+- Configuração do banco de dados  
+- Teste funcional de todos os módulos
+
+**Responsabilidade:**  
+O time técnico do projeto realizará a primeira instalação. Futuras instalações seguirão a documentação entregue.
+
+## Migração
+
+### Substituição de Sistema Antigo
+
+- O sistema anterior (fichas preenchidas no papel) será descontinuado para os novos atendimentos.  
+- Os dados antigos não serão migrados.
+
+### 11.2 Preparação para Migração Futura
+
+- O sistema contará com estrutura modular para integração de APIs externas.  
+- Caso deseje-se, futuramente, digitalizar fichas antigas, o sistema irá permitir upload de PDFs nos prontuários.
+
+## Auxílio e Suporte ao Usuário
+
+### Treinamento Formal
+
+- Sessões presenciais de capacitação 
+
+### Documentação de Apoio
+
+- Manuais do usuário e vídeos curtos com instruções de uso  
+- FAQ e guia de primeiros passos impressos
+
+### Suporte Técnico
+
+- Canal de e-mail institucional para dúvidas  
+- Atendimento remoto agendado para problemas técnicos
+
 # EAP (Estrutura Analítica do Projeto)
 
 ## Planejamento
@@ -108,7 +204,7 @@ Para garantir uma experiência de uso eficiente e sem interrupções, será ofer
 ## Opinião Especializada
 Algumas atividades do projeto requerem a participação direta de especialistas para garantir conformidade, qualidade e segurança na entrega da plataforma.
 
-### Avaliação com Fisioterapeutas (Item 3.2.1)
+### Avaliação com Fisioterapeutas
 
 Serão realizados testes práticos com fisioterapeutas da clínica-escola da Uniceplac, com o objetivo de validar a **usabilidade da interface**, identificar pontos de melhoria na navegação e assegurar que o fluxo de uso esteja alinhado às rotinas clínicas reais.
 
