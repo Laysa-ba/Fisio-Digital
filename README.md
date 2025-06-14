@@ -7,6 +7,8 @@ Aplicação web de fisioterapia para auxiliar na marcação de consultas e atual
 
 Uma análise criteriosa do fluxo de atendimentos de fisioterapia no Centro de Práticas da Uniceplac identificou dificuldades significativos no processo atual. O sistema que eles possuem atualmente, baseado integralmente em registros manuais em papel, resulta em ineficiências operacionais, como atrasos na recuperação de informações, retrabalho para preenchimento e consolidação de dados, e risco de perda de informações críticas. Essa metodologia compromete a agilidade e a qualidade dos atendimentos, além de limitar o conforto e a produtividade dos fisioterapeutas envolvidos. A digitalização e automação são essenciais para modernizar o serviço, garantir a integridade dos dados e otimizar a experiência de alunos, professores e pacientes.
 
+
+
 # Descrição do Escopo do Produto
 
 Desenvolver e implantar uma plataforma web centralizada para a gestão completa dos atendimentos de fisioterapia, desde o agendamento de consultas até o acompanhamento contínuo da evolução do paciente, garantindo segurança, acessibilidade e eficiência.
@@ -62,7 +64,9 @@ Para garantir uma experiência de uso eficiente e sem interrupções, será ofer
 - **Atendimento via E-mail:** Canal dedicado para dúvidas técnicas, sugestões e relatos de problemas.
 - **Documentação do Usuário:** Manual completo em formato digital, segmentado por perfis de acesso (paciente e fisioterapeuta), com instruções claras de uso.
 
-# Entrega e Distribuição da Plataforma
+
+
+# Instruções de Entrega e Distribuição da Plataforma
 
 ## Itens Entregues
 
@@ -135,7 +139,7 @@ O time técnico do projeto realizará a primeira instalação. Futuras instalaç
 - O sistema anterior (fichas preenchidas no papel) será descontinuado para os novos atendimentos.  
 - Os dados antigos não serão migrados.
 
-### 11.2 Preparação para Migração Futura
+### Preparação para Migração Futura
 
 - O sistema contará com estrutura modular para integração de APIs externas.  
 - Caso deseje-se, futuramente, digitalizar fichas antigas, o sistema irá permitir upload de PDFs nos prontuários.
@@ -155,6 +159,8 @@ O time técnico do projeto realizará a primeira instalação. Futuras instalaç
 
 - Canal de e-mail institucional para dúvidas  
 - Atendimento remoto agendado para problemas técnicos
+
+
 
 # EAP (Estrutura Analítica do Projeto)
 
@@ -197,6 +203,8 @@ A funcionalidade da **ficha de avaliação** envolve requisitos legais e questõ
 - O sistema respeite as normas vigentes de sigilo médico.
 - A arquitetura atenda aos padrões de conformidade exigidos para soluções digitais de saúde.
 
+
+
 # Estimativa da Execução das Tarefas
 
 A seguir, apresentamos a estimativa de execução das tarefas do projeto **Plataforma de Gestão de Atendimentos de Fisioterapia – Uniceplac**, conforme os critérios de avaliação por dados históricos, medida do trabalho e complexidade.
@@ -221,3 +229,53 @@ A seguir, apresentamos a estimativa de execução das tarefas do projeto **Plata
 
 As estimativas foram construídas com base na experiência em projetos similares, considerando a complexidade, o volume de trabalho e os recursos disponíveis.  
 A margem de erro pode variar conforme fatores inesperados durante a fase de planejamento.
+
+
+
+# Identificar e Documentar Recursos
+Esse documento tem como finalidade identificar e documentar os recursos necessários para o desenvolvimento e implantação do sistema, incluindo equipe técnica, infraestrutura de TI e suporte.
+
+## Relacionamentos
+- **Funções:**
+  - Gerente do Projeto
+  - Líder Técnico
+- **Entradas:**
+  - Declaração de Trabalho (obrigatória)
+- **Saídas:**
+  - Recursos
+
+## Descrição Principal
+Os requisitos de recursos abrangem os elementos necessários para cada fase do projeto. Incluem equipe especializada, infraestrutura de desenvolvimento, ferramentas e ambientes de teste e produção.
+
+## Estrutura de Recursos
+
+### Mão de Obra
+- Desenvolvedor Backend (PHP)
+- Desenvolvedor Frontend (HTML/CSS/JS)
+- Designer UX/UI
+- Analista de Requisitos
+- Testador (QA)
+- Gerente de Projeto
+
+### Equipamentos
+- Computadores com ambiente de desenvolvimento
+- Servidor de testes (local ou em nuvem)
+- Servidor de produção (hospedagem ou instância em nuvem)
+
+### Softwares e Ferramentas
+- IDE (VSCode)
+- Figma (para design de interface)
+- Git/GitHub (para versionamento)
+- MySQL Workbench
+- Navegadores para testes (Chrome, Firefox)
+
+### Ambientes
+- Ambiente de Desenvolvimento (local)
+- Ambiente de Homologação/Testes
+- Ambiente de Produção
+
+### Suporte e Treinamento
+- Sessões de capacitação para usuários finais
+- Documentação técnica e manuais
+- Canal de suporte por e-mail
+
