@@ -197,7 +197,7 @@ A funcionalidade da **ficha de avaliação** envolve requisitos legais e questõ
 - O sistema respeite as normas vigentes de sigilo médico.
 - A arquitetura atenda aos padrões de conformidade exigidos para soluções digitais de saúde.
 
-## 13. Estimativa da Execução das Tarefas
+# Estimativa da Execução das Tarefas
 
 A seguir, apresentamos a estimativa de execução das tarefas do projeto **Plataforma de Gestão de Atendimentos de Fisioterapia – Uniceplac**, conforme os critérios de avaliação por dados históricos, medida do trabalho e complexidade.
 
@@ -220,4 +220,4 @@ A seguir, apresentamos a estimativa de execução das tarefas do projeto **Plata
 ### Observações
 
 As estimativas foram construídas com base na experiência em projetos similares, considerando a complexidade, o volume de trabalho e os recursos disponíveis.  
-A margem de erro pode variar conforme fatores não previstos durante a fase de planejamento.
+A margem de erro pode variar conforme fatores inesperados durante a fase de planejamento.
