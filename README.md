@@ -182,29 +182,12 @@ O time técnico do projeto realizará a primeira instalação. Futuras instalaç
 ## Testes
 - **Teste por módulo e Avaliação com fisioterapeutas**
 
-## Entrega
-
-### Empacotamento do Sistema
-- **Geração do pacote final**
-
-### Instalação e Configuração
-- **Deploy no servidor da Uniceplac ou em uma hospedagem em Nuvem**
-
-## Suporte e Treinamento
-
-### Treinamento de Usuários
-- **Criação de manuais**
-- **Sessões de capacitação**
-
-### Suporte Técnico Inicial
-- **Atendimento remoto e por e-mail**
-
 ## Opinião Especializada
 Algumas atividades do projeto requerem a participação direta de especialistas para garantir conformidade, qualidade e segurança na entrega da plataforma.
 
 ### Avaliação com Fisioterapeutas
 
-Serão realizados testes práticos com fisioterapeutas da clínica-escola da Uniceplac, com o objetivo de validar a **usabilidade da interface**, identificar pontos de melhoria na navegação e assegurar que o fluxo de uso esteja alinhado às rotinas clínicas reais.
+Serão realizados testes práticos com fisioterapeutas do Centro de Práticas da Uniceplac, com o objetivo de validar a **usabilidade da interface**, identificar pontos de melhoria na navegação e assegurar que o fluxo de uso esteja alinhado às rotinas clínicas reais.
 
 ### Consultoria em LGPD e Sistemas de Saúde 
 
