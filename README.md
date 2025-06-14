@@ -62,8 +62,6 @@ Para garantir uma experiência de uso eficiente e sem interrupções, será ofer
 - **Atendimento via E-mail:** Canal dedicado para dúvidas técnicas, sugestões e relatos de problemas.
 - **Documentação do Usuário:** Manual completo em formato digital, segmentado por perfis de acesso (paciente e fisioterapeuta), com instruções claras de uso.
 
-
-
 # Entrega e Distribuição da Plataforma
 
 ## Itens Entregues
@@ -98,7 +96,7 @@ O produto final será empacotado com os seguintes componentes:
 - **Vídeos Explicativos:**  
   Dois vídeos curtos (.mp4) demonstrando o uso dos principais módulos (agendamento e prontuário).
 
-## 9. Distribuição do Software
+## Distribuição do Software
 
 A distribuição será feita por meio dos seguintes canais:
 
