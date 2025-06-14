@@ -6,7 +6,8 @@ Aplicação web de fisioterapia para auxiliar na marcação de consultas e atual
 ## Justificativa e Necessidade de Negócio
 
 Uma análise criteriosa do fluxo de atendimentos de fisioterapia no Centro de Práticas da Uniceplac identificou dificuldades significativos no processo atual. O sistema que eles possuem atualmente, baseado integralmente em registros manuais em papel, resulta em ineficiências operacionais, como atrasos na recuperação de informações, retrabalho para preenchimento e consolidação de dados, e risco de perda de informações críticas. Essa metodologia compromete a agilidade e a qualidade dos atendimentos, além de limitar o conforto e a produtividade dos fisioterapeutas envolvidos. A digitalização e automação são essenciais para modernizar o serviço, garantir a integridade dos dados e otimizar a experiência de alunos, professores e pacientes.
-## Descrição do Escopo do Produto
+
+# Descrição do Escopo do Produto
 
 Desenvolver e implantar uma plataforma web centralizada para a gestão completa dos atendimentos de fisioterapia, desde o agendamento de consultas até o acompanhamento contínuo da evolução do paciente, garantindo segurança, acessibilidade e eficiência.
 
