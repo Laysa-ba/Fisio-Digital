@@ -37,3 +37,26 @@ Desenvolver e implantar uma plataforma web centralizada para a gestão completa 
 - **Banco de Dados:** MySQL  
 - **Segurança:** Implementação de criptografia para dados sensíveis e total conformidade com a Lei Geral de Proteção de Dados (LGPD).  
 - **Arquitetura:** Níveis de acesso baseados em perfil de usuário.
+
+## Distribuição da Plataforma e Assistência ao Usuário
+
+### Distribuição da Plataforma
+
+A plataforma web será hospedada em um ambiente de nuvem confiável, garantindo alta disponibilidade, escalabilidade e segurança. O sistema estará acessível por meio de navegadores modernos, sem a necessidade de instalação local, permitindo o uso em desktops, tablets e smartphones.
+
+#### Principais características da distribuição:
+
+- **Hospedagem em Nuvem:** Utilização de serviços como AWS, Azure ou DigitalOcean para garantir estabilidade e redundância.
+- **Disponibilidade Contínua:** A plataforma será operante 24 horas por dia, 7 dias por semana.
+- **Atualizações Automatizadas:** Melhorias e correções serão aplicadas diretamente no ambiente de produção, minimizando a necessidade de intervenção do usuário.
+- **Backup Regular:** Rotinas de backup diárias garantirão a segurança e recuperação dos dados em caso de falhas.
+
+### Assistência ao Usuário
+
+Para garantir uma experiência de uso eficiente e sem interrupções, será oferecido suporte técnico aos usuários da plataforma, com diferentes canais de atendimento e materiais de apoio.
+
+#### Formas de Suporte:
+
+- **Central de Ajuda Online:** Base de conhecimento com artigos, tutoriais e perguntas frequentes.
+- **Atendimento via E-mail:** Canal dedicado para dúvidas técnicas, sugestões e relatos de problemas.
+- **Documentação do Usuário:** Manual completo em formato digital, segmentado por perfis de acesso (paciente e fisioterapeuta), com instruções claras de uso.
