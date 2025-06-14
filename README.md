@@ -105,3 +105,17 @@ Para garantir uma experiência de uso eficiente e sem interrupções, será ofer
 ### Suporte Técnico Inicial
 - **Atendimento remoto e por e-mail**
 
+## Opinião Especializada
+Algumas atividades do projeto requerem a participação direta de especialistas para garantir conformidade, qualidade e segurança na entrega da plataforma.
+
+### Avaliação com Fisioterapeutas (Item 3.2.1)
+
+Serão realizados testes práticos com fisioterapeutas da clínica-escola da Uniceplac, com o objetivo de validar a **usabilidade da interface**, identificar pontos de melhoria na navegação e assegurar que o fluxo de uso esteja alinhado às rotinas clínicas reais.
+
+### Consultoria em LGPD e Sistemas de Saúde 
+
+A funcionalidade da **ficha de avaliação** envolve requisitos legais e questões de segurança da informação. Será necessária a **consulta com um especialista em LGPD (Lei Geral de Proteção de Dados)** e sistemas voltados à área da saúde, a fim de garantir que:
+
+- Os dados do paciente estejam devidamente protegidos.
+- O sistema respeite as normas vigentes de sigilo médico.
+- A arquitetura atenda aos padrões de conformidade exigidos para soluções digitais de saúde.
