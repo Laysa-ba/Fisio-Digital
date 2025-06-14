@@ -85,12 +85,7 @@ Para garantir uma experiência de uso eficiente e sem interrupções, será ofer
 - **Integração com backend**
 
 ## Testes
-
-### Testes de Funcionalidade
-- **Teste por módulo**
-
-### Testes de Usabilidade
-- **Avaliação com fisioterapeutas**
+- **Teste por módulo e Avaliação com fisioterapeutas**
 
 ## Entrega
 
@@ -98,7 +93,7 @@ Para garantir uma experiência de uso eficiente e sem interrupções, será ofer
 - **Geração do pacote final**
 
 ### Instalação e Configuração
-- **Deploy no servidor da Uniceplac**
+- **Deploy no servidor da Uniceplac ou em uma hospedagem em Nuvem**
 
 ## Suporte e Treinamento
 
