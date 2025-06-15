@@ -40,9 +40,9 @@ Desenvolver e implantar uma plataforma web centralizada para a gestão completa 
 - **Segurança:** Implementação de criptografia para dados sensíveis e total conformidade com a Lei Geral de Proteção de Dados (LGPD).  
 - **Arquitetura:** Níveis de acesso baseados em perfil de usuário.
 
-# Distribuição da Plataforma e Assistência ao Usuário
+## Distribuição da Plataforma e Assistência ao Usuário
 
-## Distribuição da Plataforma
+### Distribuição da Plataforma
 
 A plataforma web será hospedada em um ambiente de nuvem confiável, garantindo alta disponibilidade, escalabilidade e segurança. O sistema estará acessível por meio de navegadores modernos, sem a necessidade de instalação local, permitindo o uso em desktops, tablets e smartphones.
 
@@ -53,7 +53,7 @@ A plataforma web será hospedada em um ambiente de nuvem confiável, garantindo 
 - **Atualizações Automatizadas:** Melhorias e correções serão aplicadas diretamente no ambiente de produção, minimizando a necessidade de intervenção do usuário.
 - **Backup Regular:** Rotinas de backup diárias garantirão a segurança e recuperação dos dados em caso de falhas.
 
-## Assistência ao Usuário
+### Assistência ao Usuário
 
 Para garantir uma experiência de uso eficiente e sem interrupções, será oferecido suporte técnico aos usuários da plataforma, com diferentes canais de atendimento e materiais de apoio.
 
@@ -63,7 +63,7 @@ Para garantir uma experiência de uso eficiente e sem interrupções, será ofer
 - **Atendimento via E-mail:** Canal dedicado para dúvidas técnicas, sugestões e relatos de problemas.
 - **Documentação do Usuário:** Manual completo em formato digital, segmentado por perfis de acesso (paciente e fisioterapeuta), com instruções claras de uso.
 
-# Calendário e Prazos do Projeto
+## Calendário e Prazos do Projeto
 
 | Etapa / Entrega                       | Descrição                                                             | Data Estimada         |
 |------------------------------------------|---------------------------------------------------------------------------|--------------------------|
@@ -123,14 +123,14 @@ A distribuição será feita por meio dos seguintes canais:
   - Controle de permissões por perfil de usuário  
   - Licenciamento interno limitado ao Centro de Práticas da Uniceplac, sem redistribuição
 
-# Instalação do Software
+## Instalação do Software
 
-## Pré-requisitos Técnicos
+### Pré-requisitos Técnicos
 
 - Servidor Linux com PHP 8+, MySQL 5.7+, Apache/Nginx  
 - Acesso SSH e FTP
 
-## Procedimentos
+### Procedimentos
 
 - Upload dos arquivos empacotados  
 - Execução do script de instalação  
@@ -139,34 +139,35 @@ A distribuição será feita por meio dos seguintes canais:
 
 **Responsabilidade:** O time técnico do projeto realizará a primeira instalação. Futuras instalações seguirão a documentação entregue.
 
-# Migração
+## Migração
 
-## Substituição de Sistema Antigo
+### Substituição de Sistema Antigo
 
 - O sistema anterior (fichas preenchidas no papel) será descontinuado para os novos atendimentos.  
 - Os dados antigos não serão migrados.
 
-## Preparação para Migração Futura
+### Preparação para Migração Futura
 
 - O sistema contará com estrutura modular para integração de APIs externas.  
 - Caso deseje-se, futuramente, digitalizar fichas antigas, o sistema irá permitir upload de PDFs nos prontuários.
 
-# Auxílio e Suporte ao Usuário
+## Auxílio e Suporte ao Usuário
 
-## Treinamento Formal
+### Treinamento Formal
 - Sessões presenciais de capacitação 
 
-## Documentação de Apoio
+### Documentação de Apoio
 - Manuais do usuário e vídeos curtos com instruções de uso  
 - FAQ e guia de primeiros passos impressos
 
-## Suporte Técnico
+### Suporte Técnico
 - Canal de e-mail institucional para dúvidas  
 - Atendimento remoto agendado para problemas técnicos
 
-# EAP (Estrutura Analítica do Projeto)
+# Identificar tarefas
 
-## Planejamento
+## EAP (Estrutura Analítica do Projeto)
+
 ### Levantamento de Requisitos
 - **Reuniões com stakeholders**
 - **Documentação dos requisitos**
