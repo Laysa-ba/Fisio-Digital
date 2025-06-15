@@ -445,17 +445,17 @@ Todas as solicitações de mudança deverão ser:
 
 # Descrição dos Elementos no Plano do Projeto
 
-## Escopo
+### Escopo
 Conforme a Declaração de Trabalho: desenvolvimento de um sistema de gestão para clínica de fisioterapia, incluindo funcionalidades como agendamento de consultas, upload e armazenamento seguro de laudos, envio de notificações automatizadas por e-mail/push e uma interface responsiva e intuitiva para pacientes e profissionais.
 
-## Cronograma
+### Cronograma
 Conforme a Declaração de Trabalho e o Calendário do Projeto: o projeto será iniciado em **01/07/2025** e finalizado em **31/10/2025**, com a entrega da versão beta em **11/09/2025** e a versão final em **18/10/2025**.
 
-## Riscos
+### Riscos
 Conforme o Documento de Riscos: o projeto pode sofrer alterações frequentes de demanda ou rejeição por parte dos usuários. No entanto, estratégias para mitigar esses riscos já foram previamente definidas.
 
-## Esforço e Custo
+### Esforço e Custo
 Conforme o Documente de Esforço e Custo: o custo total estimado do projeto é de **R$ 201.000,00**, abrangendo recursos humanos, infraestrutura e tecnologia, comunicação, além de uma reserva de contingência.
 
-## Qualidade
+### Qualidade
 Conforme a Declaração de Trabalho: as entregas devem estar em conformidade com o cronograma, os usuários devem estar satisfeitos com a usabilidade do sistema e o número de erros críticos deve ser mínimo.
