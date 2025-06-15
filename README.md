@@ -333,8 +333,64 @@ A equipe foi definida com base nas competências técnicas e na experiência de 
 # Estimativa de inicio e término das tarefas
 As seguintes datas intermediárias e finais foram definidas para o projeto:
 
-- **Início do Projeto:** 13/05/2025  
-- **Conclusão do Levantamento de Requisitos:** até 18/05/2025  
-- **Conclusão do Desenvolvimento:** até 03/06/2025  
-- **Finalização dos Testes:** até 10/06/2025  
-- **Apresentação Final:** 17/06/2025
+- **Início do Projeto:** 17/06/2025  
+- **Conclusão do Levantamento de Requisitos:** até 15/07/2025  
+- **Conclusão do Desenvolvimento:** até 30/09/2025  
+- **Finalização dos Testes:** até 09/10/2025  
+- **Apresentação Final:** 17/10/2025
+
+
+
+# Estimativas de Esforço e Custo
+
+Apresenta-se, a seguir, a estimativa de esforço e custos para a execução do projeto Fisio Digital.
+
+---
+
+## Recursos Humanos
+
+| **Função**                   | **Qtd. de Pessoas** | **Tempo Estimado** | **Valor Mensal (R\$)** | **Custo Total (R\$)** |
+| ---------------------------- | ------------------- | ------------------ | ---------------------- | --------------------- |
+| Gerente de Projeto           | 1                   | 4 meses            | 10.000,00              | 40.000,00             |
+| Desenvolvedor Full Stack     | 2                   | 4 meses            | 12.000,00              | 96.000,00             |
+| Designer UI/UX               | 1                   | 2 meses            | 8.000,00               | 16.000,00             |
+| Analista de QA (Testes)      | 1                   | 2 meses            | 7.000,00               | 14.000,00             |
+| Suporte Técnico/Documentação | 1                   | 1 mês              | 6.000,00               | 6.000,00              |
+| **Subtotal**                 | —                   | —                  | —                      | **R\$ 172.000,00**    |
+
+---
+
+## Infraestrutura e Tecnologia
+
+| **Item**                         | **Custo Estimado Mensal (R\$)** | **Período** | **Custo Total (R\$)** |
+| -------------------------------- | ------------------------------- | ----------- | --------------------- |
+| Servidor em nuvem (AWS/Azure)    | 600,00                          | 4 meses     | 2.400,00              |
+| Armazenamento seguro de arquivos | 300,00                          | 4 meses     | 1.200,00              |
+| Ferramentas de desenvolvimento   | 500,00                          | 4 meses     | 2.000,00              |
+| Licenças de software (UI/Testes) | 400,00                          | 2 meses     | 800,00                |
+| **Subtotal**                     | —                               | —           | **R\$ 6.400,00**      |
+
+---
+
+## Comunicação, Treinamentos e Documentação
+
+| **Item**                        | **Custo Estimado (R\$)** |
+| ------------------------------- | ------------------------ |
+| Material para treinamento       | 2.000,00                 |
+| Produção de manuais/guias       | 1.500,00                 |
+| Ferramentas de videoconferência | 500,00                   |
+| **Subtotal**                    | **R\$ 4.000,00**         |
+
+---
+
+## Contingência (10% do valor total estimado)
+
+| **Item**        | **Valor (R\$)** |
+| --------------- | --------------- |
+| Reserva Técnica | 18.600,00       |
+
+---
+
+## Custo Total Estimado do Projeto: R\$ 201.000,00
+
+---
