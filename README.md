@@ -9,7 +9,7 @@ Uma análise criteriosa do fluxo de atendimentos de fisioterapia no Centro de Pr
 
 
 
-# Descrição do Escopo do Produto
+# Descrição do Escopo do Produto e revisão do trabalho
 
 Desenvolver e implantar uma plataforma web centralizada para a gestão completa dos atendimentos de fisioterapia, desde o agendamento de consultas até o acompanhamento contínuo da evolução do paciente, garantindo segurança, acessibilidade e eficiência.
 
@@ -63,6 +63,26 @@ Para garantir uma experiência de uso eficiente e sem interrupções, será ofer
 - **Central de Ajuda Online:** Base de conhecimento com artigos, tutoriais e perguntas frequentes.
 - **Atendimento via E-mail:** Canal dedicado para dúvidas técnicas, sugestões e relatos de problemas.
 - **Documentação do Usuário:** Manual completo em formato digital, segmentado por perfis de acesso (paciente e fisioterapeuta), com instruções claras de uso.
+
+## Calendário e Prazos do Projeto
+
+| Etapa / Entrega                          | Descrição                                                                 | Data Estimada           |
+|------------------------------------------|---------------------------------------------------------------------------|--------------------------|
+| Início do projeto                        | Reunião de início com stakeholders e equipe técnica                       | 01/07/2025               |
+| Levantamento de requisitos               | Entrevistas com usuários e documentação das funcionalidades esperadas     | 03/07 a 10/07/2025       |
+| Design da interface (UI/UX)             | Prototipação e validação com usuários                                     | 11/07 a 20/07/2025       |
+| Desenvolvimento da versão alfa          | Primeira versão funcional com as principais telas e fluxos                | 21/07 a 15/08/2025       |
+| Reunião de alinhamento e status         | Apresentação da versão alfa para coleta de feedback inicial               | 16/08/2025               |
+| Desenvolvimento da versão beta          | Funcionalidades completas para testes internos                            | 17/08 a 10/09/2025       |
+| Entrega da versão beta para testes      | Liberação da plataforma para teste com usuários selecionados              | 11/09/2025               |
+| Coleta de feedback e ajustes            | Correções e melhorias com base no uso da versão beta                      | 12/09 a 22/09/2025       |
+| Relatório de status nº 1                | Documento com progresso, riscos e próximos passos                         | 15/09/2025               |
+| Desenvolvimento da versão final         | Finalização da aplicação com ajustes e refinamentos                       | 23/09 a 10/10/2025       |
+| Testes finais (QA)                      | Testes de qualidade, performance, segurança e usabilidade                 | 11/10 a 17/10/2025       |
+| Entrega da versão final do sistema      | Liberação da versão completa da plataforma                                | 18/10/2025               |
+| Treinamento de usuários e documentação  | Sessões de treinamento + entrega de manuais e guias                       | 21/10 a 25/10/2025       |
+| Reunião de encerramento                 | Apresentação dos resultados, validação final com stakeholders             | 28/10/2025               |
+| Relatório de encerramento do projeto    | Documento final com lições aprendidas, metas atingidas e próximos passos  | 31/10/2025               |
 
 
 
@@ -390,3 +410,94 @@ Esta seção apresenta os principais riscos associados ao desenvolvimento da Fis
 | **Falhas de segurança e LGPD**           | Dados sensíveis podem vazar devido a falhas de criptografia ou acessos indevidos.                       | Baixa             | Alto        | Implementar boas práticas de segurança; realizar testes de vulnerabilidade.                                         | Dev Full Stack / QA |
 | **Indisponibilidade da infraestrutura**  | Problemas no servidor podem afetar o agendamento ou o acesso às fichas dos pacientes.                   | Média             | Médio       | Monitorar o servidor; utilizar serviços em nuvem com alta disponibilidade e backups automáticos.                    | DevOps              |
 | **Escopo mal definido**                  | Mudanças frequentes nas funcionalidades esperadas podem comprometer a execução do projeto.              | Alta              | Alto        | Congelar o escopo após o levantamento; validar e documentar com os stakeholders antes do início do desenvolvimento. | Gerente de Projeto  |
+
+
+
+# Estratégia de Controle de Versão
+
+Esta estratégia tem como objetivo garantir o controle e o rastreamento de todos os artefatos relacionados à Fisio Digital.
+
+### 1. Artefatos com Controle de Versão
+
+* Código-fonte do sistema (back-end e front-end);
+* Prototipações de interface (UI/UX);
+* Todos os documentos desenvolvidos.
+
+### 2. Ferramentas Utilizadas
+
+* **Git + GitHub**: controle de versão do código-fonte;
+* **Figma**: controle e versionamento das interfaces;
+* **Google Drive**: versionamento automático e colaborativo dos documentos.
+
+### 3. Convenções de Versionamento
+
+* O código-fonte seguirá o versionamento semântico (SemVer):
+  `MAJOR.MINOR.PATCH`, ex.: `v1.0.0`, `v2.1.3`;
+* Os documentos seguirão a nomenclatura:
+  `Doc-[Tipo]-[Nome]_vX.Y.docx`, ex.: `Doc-Requisitos_v1.3.docx`.
+
+### 4. Responsabilidades
+
+* **Desenvolvedores**: criar branches por funcionalidade e abrir *pull requests* para merge com a branch principal;
+* **Gerente de Projeto**: aprovar versões dos documentos;
+* **Designer UI/UX**: manter o histórico de versões no Figma;
+* **Equipe de QA**: validar alterações antes das novas versões de produção.
+
+### 5. Controle de Versões por Fase
+
+* **Versão Alfa**: `v0.9.x` (não estável);
+* **Versão Beta**: `v1.0.0-beta` (para testes com usuários);
+* **Versão Final**: `v1.0.0` (liberação oficial);
+* **Atualizações Incrementais**: `v1.1.0`, `v1.1.1`, etc.
+
+
+
+# Integração do Plano do Projeto
+
+### Introdução
+
+Este plano descreve como os elementos do projeto serão integrados para garantir uma execução coordenada e eficaz, conforme definido na Declaração de Trabalho.
+
+#### Componentes Integrados
+
+* **Escopo**
+* **Cronograma**
+* **Riscos**
+* **Esforço e Custo**
+* **Qualidade**
+
+#### Metodologia de Integração
+
+* Realização de reuniões de alinhamento para revisão de progresso e riscos;
+* Utilização do Git e do documento `Controle_Versao.md` para rastreabilidade;
+* Validação das entregas conforme os critérios estabelecidos na Declaração de Trabalho;
+* Monitoramento contínuo dos riscos documentados e aplicação das respostas planejadas.
+
+#### Responsáveis
+
+| **Área**        | **Responsável**    |
+| --------------- | ------------------ |
+| Escopo          | Gerente de Projeto |
+| Versão          | Equipe Técnica     |
+| Desenvolvimento | Equipe Técnica     |
+
+#### Ferramentas de Integração
+
+* Documento `Controle_Versao.md`;
+* Documento de Riscos;
+* Documento de Esforço e Custo;
+* Ferramentas colaborativas (ex.: Google Drive, Git, etc.).
+
+#### Entregas Esperadas
+
+* Produto/serviço conforme especificado na Declaração de Trabalho;
+* Controle de riscos e custos atualizado;
+* Histórico de versões e mudanças devidamente registrado.
+
+#### Controle de Mudanças
+
+Todas as solicitações de mudança deverão ser:
+
+* Registradas por meio do controle de versão;
+* Aprovadas pelo Gerente de Projeto;
+* Avaliadas quanto ao impacto em custo, escopo e riscos.
