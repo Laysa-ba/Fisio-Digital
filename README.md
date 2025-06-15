@@ -3,7 +3,7 @@
 
 Aplicação web de fisioterapia para auxiliar na marcação de consultas e atualização de fichas de avaliação, criada com o objetivo de facilitar as avaliações no Centro de Práticas da Uniceplac, este site promete agilizar os atendimentos, dar um fim em fichas fisicas preenchidas manualmente e facilitar cada vez mais o trabalho dos fisioterapeutas. 
 
-## Justificativa e Necessidade de Negócio
+### Justificativa e Necessidade de Negócio
 
 Uma análise criteriosa do fluxo de atendimentos de fisioterapia no Centro de Práticas da Uniceplac identificou dificuldades significativos no processo atual. O sistema que eles possuem atualmente, baseado integralmente em registros manuais em papel, resulta em ineficiências operacionais, como atrasos na recuperação de informações, retrabalho para preenchimento e consolidação de dados, e risco de perda de informações críticas. Essa metodologia compromete a agilidade e a qualidade dos atendimentos, além de limitar o conforto e a produtividade dos fisioterapeutas envolvidos. A digitalização e automação são essenciais para modernizar o serviço, garantir a integridade dos dados e otimizar a experiência de alunos, professores e pacientes.
 
@@ -41,9 +41,9 @@ Desenvolver e implantar uma plataforma web centralizada para a gestão completa 
 - **Segurança:** Implementação de criptografia para dados sensíveis e total conformidade com a Lei Geral de Proteção de Dados (LGPD).  
 - **Arquitetura:** Níveis de acesso baseados em perfil de usuário.
 
-## Distribuição da Plataforma e Assistência ao Usuário
+### Distribuição da Plataforma e Assistência ao Usuário
 
-### Distribuição da Plataforma
+#### Distribuição da Plataforma
 
 A plataforma web será hospedada em um ambiente de nuvem confiável, garantindo alta disponibilidade, escalabilidade e segurança. O sistema estará acessível por meio de navegadores modernos, sem a necessidade de instalação local, permitindo o uso em desktops, tablets e smartphones.
 
@@ -54,7 +54,7 @@ A plataforma web será hospedada em um ambiente de nuvem confiável, garantindo 
 - **Atualizações Automatizadas:** Melhorias e correções serão aplicadas diretamente no ambiente de produção, minimizando a necessidade de intervenção do usuário.
 - **Backup Regular:** Rotinas de backup diárias garantirão a segurança e recuperação dos dados em caso de falhas.
 
-### Assistência ao Usuário
+#### Assistência ao Usuário
 
 Para garantir uma experiência de uso eficiente e sem interrupções, será oferecido suporte técnico aos usuários da plataforma, com diferentes canais de atendimento e materiais de apoio.
 
@@ -68,7 +68,7 @@ Para garantir uma experiência de uso eficiente e sem interrupções, será ofer
 
 # Instruções de Entrega e Distribuição da Plataforma
 
-## Itens Entregues
+### Itens Entregues
 
 A entrega da plataforma será composta por diversos itens que garantem sua execução funcional e uso eficaz:
 
@@ -83,7 +83,7 @@ A entrega da plataforma será composta por diversos itens que garantem sua execu
   - Manual do Fisioterapeuta  
   - Manual Técnico do Administrador
 
-## Empacotamento do Software
+### Empacotamento do Software
 
 O produto final será empacotado com os seguintes componentes:
 
@@ -100,7 +100,7 @@ O produto final será empacotado com os seguintes componentes:
 - **Vídeos Explicativos:**  
   Dois vídeos curtos (.mp4) demonstrando o uso dos principais módulos (agendamento e prontuário).
 
-## Distribuição do Software
+### Distribuição do Software
 
 A distribuição será feita por meio dos seguintes canais:
 
@@ -235,7 +235,7 @@ A margem de erro pode variar conforme fatores inesperados durante a fase de plan
 # Identificar e Documentar Recursos
 Esse documento tem como finalidade identificar e documentar os recursos necessários para o desenvolvimento e implantação do sistema, incluindo equipe técnica, infraestrutura de TI e suporte.
 
-## Relacionamentos
+### Relacionamentos
 - **Funções:**
   - Gerente do Projeto
   - Líder Técnico
@@ -244,7 +244,7 @@ Esse documento tem como finalidade identificar e documentar os recursos necessá
 - **Saídas:**
   - Recursos
 
-## Descrição Principal
+### Descrição Principal
 Os requisitos de recursos abrangem os elementos necessários para cada fase do projeto. Incluem equipe especializada, infraestrutura de desenvolvimento, ferramentas e ambientes de teste e produção.
 
 ## Estrutura de Recursos
@@ -322,10 +322,7 @@ Com base na Estrutura Analítica do Projeto (EAP), foram identificadas as seguin
 | **Laysa Bittencourt**     | Designer de Interface, Programadora Full-Stack, Testadora    | Protótipos, Front-end, Testes, Back-end                  | Design e desenvolvimento integrado|
 | **Eduardo**               | Programador Full-Stack, Analista de Requisitos               | Back-end, Front-end, Análise de dados e processos        | Apoio técnico e levantamento      |
 
----
-
 ## Considerações Finais
-
 A equipe foi definida com base nas competências técnicas e na experiência de cada membro, buscando atender às exigências do projeto com eficiência. As atribuições respeitam a carga horária, a disponibilidade e o foco de atuação de cada integrante, promovendo sinergia entre as etapas de desenvolvimento.
 
 
@@ -345,10 +342,7 @@ As seguintes datas intermediárias e finais foram definidas para o projeto:
 
 Apresenta-se, a seguir, a estimativa de esforço e custos para a execução do projeto Fisio Digital.
 
----
-
-## Recursos Humanos
-
+### Recursos Humanos
 | **Função**                   | **Qtd. de Pessoas** | **Tempo Estimado** | **Valor Mensal (R\$)** | **Custo Total (R\$)** |
 | ---------------------------- | ------------------- | ------------------ | ---------------------- | --------------------- |
 | Gerente de Projeto           | 1                   | 4 meses            | 10.000,00              | 40.000,00             |
@@ -358,10 +352,7 @@ Apresenta-se, a seguir, a estimativa de esforço e custos para a execução do p
 | Suporte Técnico/Documentação | 1                   | 1 mês              | 6.000,00               | 6.000,00              |
 | **Subtotal**                 | —                   | —                  | —                      | **R\$ 172.000,00**    |
 
----
-
-## Infraestrutura e Tecnologia
-
+### Infraestrutura e Tecnologia
 | **Item**                         | **Custo Estimado Mensal (R\$)** | **Período** | **Custo Total (R\$)** |
 | -------------------------------- | ------------------------------- | ----------- | --------------------- |
 | Servidor em nuvem (AWS/Azure)    | 600,00                          | 4 meses     | 2.400,00              |
@@ -370,10 +361,8 @@ Apresenta-se, a seguir, a estimativa de esforço e custos para a execução do p
 | Licenças de software (UI/Testes) | 400,00                          | 2 meses     | 800,00                |
 | **Subtotal**                     | —                               | —           | **R\$ 6.400,00**      |
 
----
 
-## Comunicação, Treinamentos e Documentação
-
+### Comunicação, Treinamentos e Documentação
 | **Item**                        | **Custo Estimado (R\$)** |
 | ------------------------------- | ------------------------ |
 | Material para treinamento       | 2.000,00                 |
@@ -381,17 +370,13 @@ Apresenta-se, a seguir, a estimativa de esforço e custos para a execução do p
 | Ferramentas de videoconferência | 500,00                   |
 | **Subtotal**                    | **R\$ 4.000,00**         |
 
----
-
-## Contingência (10% do valor total estimado)
-
+### Contingência (10% do valor total estimado)
 | **Item**        | **Valor (R\$)** |
 | --------------- | --------------- |
 | Reserva Técnica | 18.600,00       |
 
----
 
-## Custo Total Estimado do Projeto: R\$ 201.000,00
+### Custo Total Estimado do Projeto: R\$ 201.000,00
 
 
 # Identificação e Documentação de Riscos
