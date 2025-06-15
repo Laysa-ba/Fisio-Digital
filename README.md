@@ -393,4 +393,15 @@ Apresenta-se, a seguir, a estimativa de esforço e custos para a execução do p
 
 ## Custo Total Estimado do Projeto: R\$ 201.000,00
 
----
+
+# Identificação e Documentação de Riscos
+
+Esta seção apresenta os principais riscos associados ao desenvolvimento da Fisio Digital
+
+| **Risco**                                | **Descrição**                                                                                           | **Probabilidade** | **Impacto** | **Plano de Resposta**                                                                                               | **Responsável**     |
+| ---------------------------------------- | ------------------------------------------------------------------------------------------------------- | ----------------- | ----------- | ------------------------------------------------------------------------------------------------------------------- | ------------------- |
+| **Atraso na entrega de funcionalidades** | A equipe de desenvolvimento pode não cumprir os prazos devido à complexidade técnica envolvida.         | Média             | Alto        | Realizar reuniões semanais de acompanhamento; priorizar o backlog; aplicar metodologias ágeis.                      | Gerente de Projeto  |
+| **Rejeição por parte dos usuários**      | Profissionais ou pacientes podem resistir à adoção do sistema digital, preferindo métodos tradicionais. | Média             | Alto        | Promover treinamentos e campanhas de sensibilização; envolver usuários em testes e validação da interface.          | Designer / PM       |
+| **Falhas de segurança e LGPD**           | Dados sensíveis podem vazar devido a falhas de criptografia ou acessos indevidos.                       | Baixa             | Alto        | Implementar boas práticas de segurança; realizar testes de vulnerabilidade.                                         | Dev Full Stack / QA |
+| **Indisponibilidade da infraestrutura**  | Problemas no servidor podem afetar o agendamento ou o acesso às fichas dos pacientes.                   | Média             | Médio       | Monitorar o servidor; utilizar serviços em nuvem com alta disponibilidade e backups automáticos.                    | DevOps              |
+| **Escopo mal definido**                  | Mudanças frequentes nas funcionalidades esperadas podem comprometer a execução do projeto.              | Alta              | Alto        | Congelar o escopo após o levantamento; validar e documentar com os stakeholders antes do início do desenvolvimento. | Gerente de Projeto  |
