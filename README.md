@@ -396,7 +396,7 @@ Esta estratégia tem como objetivo garantir o controle e o rastreamento de todos
 * **Designer UI/UX**: manter o histórico de versões no Figma;
 * **Equipe de QA**: validar alterações antes das novas versões de produção.
 
-## 5. Controle de Versões por Fase
+## Controle de Versões por Fase
 * **Versão Alfa**: `v0.9.x` (não estável);
 * **Versão Beta**: `v1.0.0-beta` (para testes com usuários);
 * **Versão Final**: `v1.0.0` (liberação oficial);
